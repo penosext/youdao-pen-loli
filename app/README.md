@@ -1,6 +1,6 @@
 # 应用安装包
 
-这里存放 loli 各版本的安装包（`.amr` 格式，实为 ZIP，由 `miniapp_cli` 安装）。
+这里存放 loli 各版本的安装包（`.amr` 格式，由 `miniapp_cli` 安装）。
 
 ## 如何选择版本？
 
