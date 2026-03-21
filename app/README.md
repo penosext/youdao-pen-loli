@@ -12,7 +12,3 @@
 | `cvi-ffmpeg/` | CVI 系列 | FFmpeg | . |
 
 不确定自己是哪个分支？参考根目录 [README](../README.md) 中的设备兼容性检测方法。
-
-## 版本管理说明
-
-目录中只保留**最新版本**，历史版本可在 [Releases](../../releases) 页面按 Tag 下载。
