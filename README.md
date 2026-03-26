@@ -33,10 +33,6 @@ gst-launch-1.0
 
 也可以直接报设备型号在群里问（不一定有结论）。
 
-[cvi-ffmpeg](../../app/cvi-ffmpeg/)
-
-[rk-gst](../../app/rk-gst/)
-
 ---
 
 ## 安装方法
