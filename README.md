@@ -77,6 +77,8 @@ adb shell miniapp_cli install /userdisk/loli_v1.5.amr
 
 解除词典笔 adb 限制的教程：https://m.bilibili.com/opus/1041644000127221764
 
+https://github.com/86lbs/ydpen-adb-unlock
+
 ---
 
 ## 社群
