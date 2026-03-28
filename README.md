@@ -10,6 +10,8 @@
 
 https://m.bilibili.com/opus/1041644000127221764
 
+https://github.com/86lbs/ydpen-adb-unlock
+
 2. 确定自己的设备是否支持见群公告
 
 https://web.qun.qq.com/mannounce/detail.html?_wv=1031#fid=7f704939000000005834be69cca60a00&gc=961114239
