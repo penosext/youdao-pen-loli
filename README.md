@@ -26,9 +26,7 @@ https://web.qun.qq.com/mannounce/detail.html?_wv=1031#fid=7f704939000000008ebdb8
 
 ---
 
-## 不想自己操作的看
-
-https://web.qun.qq.com/mannounce/detail.html?_wv=1031#fid=7f70493900000000ccddc76986260700&gc=961114239
+## 不想自己操作的看 [这里](docs/远程价格.md)
 
 ---
 
