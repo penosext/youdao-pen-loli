@@ -16,13 +16,11 @@ https://github.com/86lbs/ydpen-adb-unlock
 
 3. 下载应用，打开群文件，找到loli文件夹，里面是各版本的软件包
 
-4. 安装应用见教程公告
-
-https://web.qun.qq.com/mannounce/detail.html?_wv=1031#fid=7f704939000000008ebdb869bbe90300&gc=961114239
+4. 安装应用见[教程](docs/如何安装.md)
 
 ---
 
-## 不想自己操作的看 [这里](docs/远程价格.md)
+## 不想自己操作的看[这里](docs/远程价格.md)
 
 ---
 
