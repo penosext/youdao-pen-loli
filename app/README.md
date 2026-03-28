@@ -11,4 +11,4 @@
 | `rk-gst/` | RK 系列 | GStreamer | 洛 |
 | `cvi-ffmpeg/` | CVI 系列 | FFmpeg | . |
 
-不确定自己是哪个分支？参考根目录 [README](../README.md) 中的设备兼容性检测方法。
+不确定自己是哪个分支？参考[这里](../docs/能否安装.md)
