@@ -1,10 +1,7 @@
-title: 笔上哔哩1
+title: 笔上哔哩
 description: 有道词典笔第三方 miniapp 社区资源站
-baseurl: "/youdao-pen-loli"
-
-url: "https://86lbs.github.io"
-
-theme: just-the-docs
-
+baseurl: ""
+url: "https://loli.miniapp.posc.net"
+theme: minima
 plugins:
   - jekyll-seo-tag
