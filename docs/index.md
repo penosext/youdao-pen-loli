@@ -26,4 +26,4 @@ title: 首页
 
 群精华消息：<https://qun.qq.com/essence/index?gc=961114239>
 
-欢迎有代码编程能力的大佬加入！
+欢迎有代码编程能力的大佬加入[POSC](https://qm.qq.com/q/XhxpDfskKs)！
