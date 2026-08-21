@@ -28,4 +28,4 @@ https://github.com/86lbs/ydpen-adb-unlock
 
 ---
 
-欢迎有代码编程能力的大佬加入！！
+欢迎有代码编程能力的大佬加入[POSC](https://qm.qq.com/q/XhxpDfskKs)！！
