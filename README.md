@@ -28,4 +28,4 @@ https://unlock.86lbs.cn
 
 ---
 
-欢迎有代码编程能力的大佬加入[POSC](https://qm.qq.com/q/XhxpDfskKs)！！
+欢迎有代码编程能力的大佬加入[POSC](https://qm.qq.com/q/tkLrLEi63u)！！
