@@ -10,7 +10,7 @@
 
 https://m.bilibili.com/opus/1041644000127221764
 
-https://github.com/86lbs/ydpen-adb-unlock
+https://unlock.86lbs.cn
 
 2. 确定自己的设备是否支持见[这里](docs/兼容性检测.md)
 

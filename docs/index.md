@@ -25,7 +25,7 @@ title: 首页
 
 1. **解除有道词典笔 adb 限制**
    - [bilibili 图文教程](https://m.bilibili.com/opus/1041644000127221764)
-   - [GitHub 文档](https://github.com/86lbs/ydpen-adb-unlock)
+   - [GitHub 文档](https://unlock.86lbs.cn)
 2. **确认设备是否支持** → [兼容性检测](兼容性检测)
 3. **下载安装包** → [下载](下载)
 4. **按步骤安装** → [安装指南](安装指南)
